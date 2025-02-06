@@ -3,13 +3,39 @@
 # FINOS DTCC Hackathon 
 
 
-## Project Name
+## AI-Powered Digital Regulatory Reporting
+**Quality and Compliance Masters**
 
 
 ### Project Details
+Digital Regulatory Reporting is messy. It is because organizations may internally handle attributes and fields of a trade differently. 
 
+Here we demonstate that it is possible to create a linkage from the unstructured regulatory text, to data model, to a specific field and interpretation. And based on the linkage and quality check, we can utilize AI tools to further understand the data quality and errors, assisting in reproting and solving these errors.
+
+Here shows the workflows and its feasibility is verified in the Databricks environment.
+![Workflow](asset/workflow.png)
 
 ### Team Information
+Team POC: Josh Seidel
+
+Team POC GitHib: josh-seidel-db
+
+Team members:
+* Brian Bussing (doesn’t have Github)
+* Jordan Kramer (jordankramerdbx)
+* Antoine Amend (@aamend)
+* PJ Di Giammarino (pj@jwg-it.eu) (does not have Github)
+* Luca Borella (luca.borella@finos.org) - Will not be participating in this, but will share the project with them.
+* Minesh Patel (minesh.patel@regnosys.com)
+* Xiaoyang Liu (xl2427@columbia.edu) 
+* Keyi Wang (kw2914@columbia.edu)
+* Sarah Huang (xh2404@columbia.edu)
+* Kaiwen He (hek3@rpi.edu)
+* Charie Shen (cs4206@columbia.edu)
+* Colin Lin (shengyu3@andrew.cmu.edu)
+* Felix Tian (tianf2@rpi.edu)
+* Ruoyu Xiang (xry0408@gmail.com)
+
 
 
 ## Using DCO to sign your commits
